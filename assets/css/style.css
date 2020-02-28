@@ -1,0 +1,84 @@
+/************************************************************************************
+				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*	
+				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				*.*.*															*.*.*
+				*.*.*	Project Name: 	Tymah   		 						*.*.*
+				*.*.*	Purpose:		Display System time in broswer		 	*.*.*
+				*.*.*	Developed By:	Caleb Uche (Khaleb O'Brien)				*.*.*
+				*.*.*															*.*.*
+				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				************************************************************************************/
+
+body {
+	background:url('../assets/images/background.jpg') 0 0 no-repeat; /* background should be 1920x1415 */
+	overflow-x:hidden;
+    background-size: cover;
+	font-family:'Roboto',Open Sans;
+}
+
+#timer_dashboard {
+	margin-top: 60px;
+}
+
+.timer .hours_dash .digit {
+	color: #FF0000;
+}
+
+.timer .minutes_dash .digit {
+	color: #FF0000;
+}
+
+.timer .seconds_dash .digit {
+	color: #FF0000;
+}
+
+.title h1 {
+	font-size: 200px;
+	margin-top:30px;
+	color:#fff;
+	text-align:center;	
+	font-family:Roboto;	
+}
+
+.welcome {
+    text-align: center;
+}
+
+p {
+	font-family:Roboto;
+	color:#fff;	
+}
+
+.dash {
+	height: 228px;
+	background: transparent url('../assets/images/dash.png') 0 0 no-repeat;
+	float: left;
+	margin-left: 21px;
+	position: relative;
+	border-radius: 20px;
+	}
+
+.dash .digit {
+	font-size: 110pt;
+	font-weight: bold;
+	float: left;
+	width: 110px;
+	text-align: center;
+	color: #fff;
+	position: relative;
+}
+
+.dash_title {
+	position: absolute;
+	display: block;
+	bottom: 0px;	
+	font-size:12px;
+	font-weight:500;
+	color: #fff;
+	margin-left:10px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family:Roboto;
+}
+
