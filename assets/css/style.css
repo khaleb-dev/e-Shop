@@ -1,84 +1,68 @@
-/************************************************************************************
-				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*	
-				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
-				*.*.*															*.*.*
-				*.*.*	Project Name: 	Tymah   		 						*.*.*
-				*.*.*	Purpose:		Display System time in broswer		 	*.*.*
-				*.*.*	Developed By:	Caleb Uche (Khaleb O'Brien)				*.*.*
-				*.*.*															*.*.*
-				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
-				*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
-				************************************************************************************/
+/*
+* eShop style
+* v1.0
+* http://github.com/KhalebOBrien/eshop
+* (c) 2020 Caleb Uche (Khaleb O'Brien) - code_witch/weird_coder
+* ebukauche52@gmail.com
+* may be freely distributed under the MIT license.
+*/
 
-body {
-	background:url('../assets/images/background.jpg') 0 0 no-repeat; /* background should be 1920x1415 */
-	overflow-x:hidden;
-    background-size: cover;
-	font-family:'Roboto',Open Sans;
+/* General Styles */
+
+body{
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background: #f0f0f0;
+    overflow-x: hidden;
 }
 
-#timer_dashboard {
-	margin-top: 60px;
+/* Top Styles */
+
+#top{
+    background: #555555;
+    padding: 10px 0;
 }
-
-.timer .hours_dash .digit {
-	color: #FF0000;
+#top .offer{
+    color: #ffffff;
 }
-
-.timer .minutes_dash .digit {
-	color: #FF0000;
+#top .offer .btn{
+    text-transform: uppercase;
 }
-
-.timer .seconds_dash .digit {
-	color: #FF0000;
+@media(max-width: 991px){
+    #top .offer{
+        margin-bottom: 10px;
+    }
 }
-
-.title h1 {
-	font-size: 200px;
-	margin-top:30px;
-	color:#fff;
-	text-align:center;	
-	font-family:Roboto;	
+@media(max-width: 991px){
+    #top{
+        font-size: 12px;
+        text-align: center;
+    }
 }
-
-.welcome {
-    text-align: center;
+#top a{
+    color: #ffffff;
 }
-
-p {
-	font-family:Roboto;
-	color:#fff;	
+#top ul.menu{
+    padding-top: 5px;
+    margin: 0px;
+    text-align: right;
+    font-size: 12px;
+    list-style: none;
 }
-
-.dash {
-	height: 228px;
-	background: transparent url('../assets/images/dash.png') 0 0 no-repeat;
-	float: left;
-	margin-left: 21px;
-	position: relative;
-	border-radius: 20px;
-	}
-
-.dash .digit {
-	font-size: 110pt;
-	font-weight: bold;
-	float: left;
-	width: 110px;
-	text-align: center;
-	color: #fff;
-	position: relative;
+@media(max-width: 991px){
+    #top ul.menu{
+        text-align: center;
+    }
 }
-
-.dash_title {
-	position: absolute;
-	display: block;
-	bottom: 0px;	
-	font-size:12px;
-	font-weight:500;
-	color: #fff;
-	margin-left:10px;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	font-family:Roboto;
+#top ul.menu > li{
+    display: inline-block;
 }
-
+#top ul.menu > li a{
+    color: #eeeeee;
+}
+#top ul.menu > li + li:before{
+    content: "|\00a0";
+    color: #f7f7f7;
+    padding: 0 5px;
+}
