@@ -196,6 +196,87 @@ require 'application/utilities/utility.php';
 		</div>
 		<!-- container slider Finish -->
 
+		<!-- #advantages Begin -->
+		<div id="advantages">
+		    <div class="container">
+		        <!-- container Begin -->
+		        <div class="same-height-row">
+		            <!-- same-height-row Begin -->
+		            <div class="col-sm-4">
+		                <!-- col-sm-4 Begin -->
+		                <div class="box same-height">
+		                    <!-- box same-height Begin -->
+		                    <div class="icon">
+		                        <!-- icon Begin -->
+		                        <i class="fa fa-heart"></i>
+		                    </div>
+		                    <!-- icon Finish -->
+		                    <h3>
+		                        <a href="#">We Love Our Customers</a>
+		                    </h3>
+		                    <p>
+		                        We know how to provide the best possible services ever.
+		                        <br>
+		                        We value our customers so dearly and have them at heart at all times.
+		                        <br>
+		                        Your satisfaction is our delight.
+		                    </p>
+		                </div>
+		                <!-- box same-height Finish -->
+		            </div>
+		            <!-- col-sm-4 Finish -->
+		            <div class="col-sm-4">
+		                <!-- col-sm-4 Begin -->
+		                <div class="box same-height">
+		                    <!-- box same-height Begin -->
+		                    <div class="icon">
+		                        <!-- icon Begin -->
+		                        <i class="fa fa-tag"></i>
+		                    </div>
+		                    <!-- icon Finish -->
+		                    <h3>
+		                        <a href="#">Best Prices</a>
+		                    </h3>
+		                    <p>
+		                        Compare us with another store site, We have the best prices
+		                        <br>
+		                        We offer quality products at very affordable prices
+		                        <br>
+		                        Our prices are second to non. Try us today and enjoy the best prices
+		                    </p>
+		                </div>
+		                <!-- box same-height Finish -->
+		            </div>
+		            <!-- col-sm-4 Finish -->
+		            <div class="col-sm-4">
+		                <!-- col-sm-4 Begin -->
+		                <div class="box same-height">
+		                    <!-- box same-height Begin -->
+		                    <div class="icon">
+		                        <!-- icon Begin -->
+		                        <i class="fa fa-thumbs-up"></i>
+		                    </div>
+		                    <!-- icon Finish -->
+		                    <h3>
+		                        <a href="#">100% Original Products</a>
+		                    </h3>
+		                    <p>
+		                        We just offer you the best and original products
+		                        <br>
+		                        Our products are 100% original, no fake products are displayed on our site.
+		                        <br>
+		                        Be rest assured thet our products are the best
+		                    </p>
+		                </div>
+		                <!-- box same-height Finish -->
+		            </div>
+		            <!-- col-sm-4 Finish -->
+		        </div>
+		        <!-- same-height-row Finish -->
+		    </div>
+		    <!-- container Finish -->
+		</div>
+		<!-- #advantages Finish -->
 
         <script src="assets/js/jquery.min.js"></script><!--jQuery v3.4.1-->
         <script src="assets/js/bootstrap-337.min.js"></script>
