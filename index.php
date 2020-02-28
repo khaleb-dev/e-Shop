@@ -278,6 +278,312 @@ require 'application/utilities/utility.php';
 		</div>
 		<!-- #advantages Finish -->
 
+		<!-- #latest Begin -->
+		<!-- hot -->
+		<div id="hot">
+		    <div class="box">
+		        <!-- box Begin -->
+		        <div class="container">
+		            <!-- container Begin -->
+		            <div class="col-md-12">
+		                <!-- col-md-12 Begin -->
+		                <h2>
+		                    Our Latest Products
+		                </h2>
+		            </div>
+		            <!-- col-md-12 finish -->
+		        </div>
+		        <!-- container finish -->
+		    </div>
+		    <!-- box finish -->
+		</div>
+		<!-- /hot -->
+
+		<!-- container Begin -->
+		<div class="container" id="content">
+		    <div class="row">
+		        <!-- row Begin -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 1" class="img-responsive" src="assets/images/product_images/jeans.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Jeans
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 2" class="img-responsive" src="assets/images/product_images/boy.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Men
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 3" class="img-responsive" src="assets/images/product_images/girl.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Women
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 3" class="img-responsive" src="assets/images/product_images/girl.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Women
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 2" class="img-responsive" src="assets/images/product_images/boy.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Men
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 3" class="img-responsive" src="assets/images/product_images/girl.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Women
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 2" class="img-responsive" src="assets/images/product_images/boy.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Men
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		        <div class="col-sm-4 col-sm-6 single">
+		            <!-- col-sm-4 col-sm-6 single Begin -->
+		            <div class="product">
+		                <!-- product Begin -->
+		                <a href="details.php">
+		                    <img alt="product 3" class="img-responsive" src="assets/images/product_images/girl.jpeg">
+		                    </img>
+		                </a>
+		                <div class="text">
+		                    <!-- text Begin -->
+		                    <h3>
+		                        <a href="details.php">
+		                            eStore Polo Women
+		                        </a>
+		                    </h3>
+		                    <p class="price">
+		                        $30
+		                    </p>
+		                    <p class="button">
+		                        <a class="btn btn-default" href="details.php">
+		                            View Details
+		                        </a>
+		                        <a class="btn btn-primary" href="details.php">
+		                            <i class="fa fa-shopping-cart">
+		                                Add To Cart
+		                            </i>
+		                        </a>
+		                    </p>
+		                </div>
+		                <!-- text Begin -->
+		            </div>
+		            <!-- product Finish -->
+		        </div>
+		        <!-- col-sm-4 col-sm-6 single Finish -->
+		    </div>
+		    <!-- row Finish -->
+		</div>
+		<!-- container Finish -->
+		<!-- #latest Finish -->
+
+		<!-- footer -->
+		<?php include("application/fragment/footer.php") ?>
+
         <script src="assets/js/jquery.min.js"></script><!--jQuery v3.4.1-->
         <script src="assets/js/bootstrap-337.min.js"></script>
         <!--script src="assets/js/bootstrap.min.js"></script--><!--Bootstrap v4.3.1-->
