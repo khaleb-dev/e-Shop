@@ -1,6 +1,6 @@
-# e-Store
+# e-Shop
 
-eStore is a project created to satisfy the requirement needed to develop an eCommerce web app in vanilla PHP.
+eShop is a project created to satisfy the requirement needed to develop an eCommerce web app in vanilla PHP.
 
 # NOTE:
 - This is a project I did when learning how to build a complete eCommerce web application using classic PHP.
