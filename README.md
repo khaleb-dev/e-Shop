@@ -21,4 +21,5 @@ eShop is a project created to satisfy the requirement needed to develop an eComm
 
 This project is covered by the MIT License.
 
+# Project version
 *version 1.0*

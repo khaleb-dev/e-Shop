@@ -315,7 +315,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Jeans
+		                            eShop Jeans
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -349,7 +349,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Men
+		                            eShop Polo Men
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -383,7 +383,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Women
+		                            eShop Polo Women
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -417,7 +417,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Women
+		                            eShop Polo Women
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -451,7 +451,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Men
+		                            eShop Polo Men
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -485,7 +485,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Women
+		                            eShop Polo Women
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -519,7 +519,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Men
+		                            eShop Polo Men
 		                        </a>
 		                    </h3>
 		                    <p class="price">
@@ -553,7 +553,7 @@ require 'application/utilities/utility.php';
 		                    <!-- text Begin -->
 		                    <h3>
 		                        <a href="details.php">
-		                            eStore Polo Women
+		                            eShop Polo Women
 		                        </a>
 		                    </h3>
 		                    <p class="price">
